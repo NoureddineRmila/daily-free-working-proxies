@@ -1,11 +1,11 @@
 ip:port,protocol,country,anonymity
-37.97.201.252:80,http,Netherlands,elite
 51.75.74.18:80,http,Germany,elite
-116.203.28.43:80,http,Germany,anonymous
+23.254.231.55:80,http,United States,elite
+37.97.201.252:80,http,Netherlands,elite
 149.202.91.219:80,http,France,elite
-188.137.118.112:80,http,Poland,anonymous
-191.101.80.162:80,http,Germany,anonymous
-20.193.135.50:80,http,India,elite
-3.19.97.90:80,http,United States,elite
-38.47.189.73:80,http,Malaysia,anonymous
+116.203.28.43:80,http,Germany,anonymous
+129.151.228.63:8080,http,France,anonymous
+128.140.26.12:80,http,Germany,anonymous
 164.90.184.248:80,http,Germany,elite
+188.137.118.112:80,http,Poland,anonymous
+91.65.102.60:80,http,Germany,elite
