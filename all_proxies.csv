@@ -1,15 +1,16 @@
 ip:port,protocol,country,anonymity
 8.34.208.46:80,http,Belgium,elite
-51.15.242.202:8888,http,France,anonymous
-37.97.201.252:80,http,Netherlands,elite
-51.75.74.18:80,http,Germany,elite
-128.140.26.12:80,http,Germany,anonymous
-103.127.1.130:80,http,Bangladesh,anonymous
-149.202.91.219:80,http,France,elite
-116.203.28.43:80,http,Germany,anonymous
-188.137.118.112:80,http,Poland,anonymous
 164.90.184.248:80,http,Germany,elite
-191.101.80.162:80,http,Germany,anonymous
+51.75.74.18:80,http,Germany,elite
+116.203.28.43:80,http,Germany,anonymous
+37.97.201.252:80,http,Netherlands,elite
+23.254.231.55:80,http,United States,elite
+51.15.242.202:8888,http,France,anonymous
+188.137.118.112:80,http,Poland,anonymous
 45.92.108.112:80,http,Switzerland,elite
+191.101.80.162:80,http,Germany,anonymous
+3.19.97.90:80,http,United States,elite
+149.202.91.219:80,http,France,elite
 20.193.135.50:80,http,India,elite
-91.65.102.60:80,http,Germany,elite
+38.47.189.73:80,http,Malaysia,anonymous
+188.166.56.246:80,http,Netherlands,elite
