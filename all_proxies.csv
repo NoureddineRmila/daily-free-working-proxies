@@ -1,16 +1,17 @@
 ip:port,protocol,country,anonymity
-8.34.208.46:80,http,Belgium,elite
-164.90.184.248:80,http,Germany,elite
-51.75.74.18:80,http,Germany,elite
-116.203.28.43:80,http,Germany,anonymous
-37.97.201.252:80,http,Netherlands,elite
-23.254.231.55:80,http,United States,elite
-51.15.242.202:8888,http,France,anonymous
-188.137.118.112:80,http,Poland,anonymous
-45.92.108.112:80,http,Switzerland,elite
-191.101.80.162:80,http,Germany,anonymous
-3.19.97.90:80,http,United States,elite
 149.202.91.219:80,http,France,elite
-20.193.135.50:80,http,India,elite
+37.97.201.252:80,http,Netherlands,elite
+212.118.43.143:80,http,Netherlands,anonymous
+191.101.80.162:80,http,Germany,anonymous
+128.140.26.12:80,http,Germany,anonymous
+116.203.28.43:80,http,Germany,anonymous
+23.254.231.55:80,http,United States,elite
+51.250.13.88:80,http,Russian Federation,elite
+173.255.119.18:80,http,United States,elite
 38.47.189.73:80,http,Malaysia,anonymous
-188.166.56.246:80,http,Netherlands,elite
+20.193.135.50:80,http,India,elite
+162.223.94.164:80,http,United States,anonymous
+195.235.124.143:80,http,Spain,anonymous
+93.171.220.229:8888,http,Turkmenistan,anonymous
+162.223.94.166:80,http,United States,anonymous
+3.19.97.90:80,http,United States,elite

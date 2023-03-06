@@ -1,3 +1,6 @@
 ip:port,protocol,country,anonymity
 23.254.231.55:80,http,United States,elite
+173.255.119.18:80,http,United States,elite
+162.223.94.164:80,http,United States,anonymous
+162.223.94.166:80,http,United States,anonymous
 3.19.97.90:80,http,United States,elite
