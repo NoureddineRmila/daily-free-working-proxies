@@ -1,10 +1,6 @@
 ip:port,protocol,country,anonymity
 162.223.94.166:80,http,United States,anonymous
 162.223.94.164:80,http,United States,anonymous
-159.65.245.255:80,http,United States,elite
-138.91.159.185:80,http,United States,elite
-67.241.211.61:8080,https,United States,elite
 159.65.77.168:8585,http,United States,anonymous
-199.58.185.9:4145,socks4,United States,anonymous
-142.54.232.6:4145,socks4,United States,anonymous
-23.254.231.55:80,http,United States,elite
+67.241.211.61:8080,https,United States,elite
+147.182.180.242:80,http,United States,elite

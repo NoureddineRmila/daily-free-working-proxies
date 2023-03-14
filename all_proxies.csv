@@ -3,22 +3,23 @@ ip:port,protocol,country,anonymity
 188.137.118.112:80,http,Poland,anonymous
 38.47.189.73:80,http,Malaysia,anonymous
 162.223.94.166:80,http,United States,anonymous
-103.163.51.254:80,http,Bangladesh,anonymous
-190.103.177.131:80,http,Argentina,anonymous
 162.223.94.164:80,http,United States,anonymous
+51.250.13.88:80,http,Russian Federation,elite
 46.40.37.22:23500,http,Serbia,transparent
-41.77.188.131:80,http,Guinea,elite
+185.22.8.70:1080,socks4,Poland,anonymous
+191.101.80.162:80,http,Germany,anonymous
 202.131.65.110:80,http,Hong Kong,anonymous
-212.118.43.143:80,http,Netherlands,anonymous
-160.16.65.167:80,http,Japan,anonymous
-159.65.245.255:80,http,United States,elite
-138.91.159.185:80,http,United States,elite
-3.0.209.250:3128,socks4,Singapore,anonymous
-67.241.211.61:8080,https,United States,elite
-159.65.77.168:8585,http,United States,anonymous
-199.58.185.9:4145,socks4,United States,anonymous
-195.235.124.143:80,http,Spain,anonymous
-142.54.232.6:4145,socks4,United States,anonymous
 47.56.110.204:8989,http,Hong Kong,anonymous
-192.111.139.162:4145,socks4,Canada,anonymous
-23.254.231.55:80,http,United States,elite
+41.77.188.131:80,http,Guinea,elite
+160.16.65.167:80,http,Japan,anonymous
+188.166.56.246:80,http,Netherlands,elite
+159.65.77.168:8585,http,United States,anonymous
+3.0.209.250:3128,socks4,Singapore,anonymous
+154.65.39.8:80,http,Senegal,elite
+34.87.84.105:80,http,Singapore,elite
+172.232.97.182:80,http,India,elite
+192.111.138.29:4145,socks4,Canada,anonymous
+67.241.211.61:8080,https,United States,elite
+147.182.180.242:80,http,United States,elite
+195.158.16.9:3128,https,Uzbekistan,elite
+197.243.20.186:80,http,Rwanda,elite
