@@ -1,29 +1,30 @@
 ip:port,protocol,country,anonymity
-37.97.201.252:80,http,Netherlands,elite
-116.203.28.43:80,http,Germany,anonymous
+103.127.1.130:80,http,Bangladesh,anonymous
 149.202.91.219:80,http,France,elite
-188.137.118.112:80,http,Poland,anonymous
-103.163.51.254:80,http,Bangladesh,anonymous
-51.145.176.250:8080,https,Netherlands,anonymous
-51.250.13.88:80,http,Russian Federation,elite
-162.223.94.164:80,http,United States,anonymous
-162.223.94.166:80,http,United States,anonymous
-190.103.177.131:80,http,Argentina,anonymous
-38.47.189.73:80,http,Malaysia,anonymous
-202.131.65.110:80,http,Hong Kong,anonymous
-4.144.136.15:80,https,Singapore,anonymous
-46.40.37.22:23500,http,Serbia,transparent
-160.16.65.167:80,http,Japan,anonymous
-41.77.188.131:80,http,Guinea,elite
-164.132.170.100:80,http,France,elite
-174.64.199.82:4145,socks4,unknown,unknown
-3.0.209.250:3128,socks4,Singapore,anonymous
-67.241.211.61:8080,https,United States,elite
-200.41.182.243:4145,socks4,unknown,unknown
+116.203.28.43:80,http,Germany,anonymous
 128.140.26.12:80,http,Germany,anonymous
-103.174.102.127:80,http,India,elite
-14.161.17.4:4153,socks4,Vietnam,anonymous
-192.111.139.162:4145,socks4,unknown,unknown
-192.111.129.145:16894,socks4,unknown,unknown
-216.137.184.253:80,http,United States,elite
-138.68.225.200:80,http,United States,elite
+188.137.118.112:80,http,Poland,anonymous
+51.250.13.88:80,http,Russian Federation,elite
+38.47.189.73:80,http,Malaysia,anonymous
+103.163.51.254:80,http,Bangladesh,anonymous
+162.223.94.166:80,http,United States,anonymous
+162.223.94.164:80,http,United States,anonymous
+93.171.220.229:8888,http,Turkmenistan,anonymous
+37.97.201.252:80,http,Netherlands,elite
+202.131.65.110:80,http,Hong Kong,anonymous
+43.156.0.125:8888,http,Singapore,anonymous
+46.40.37.22:23500,http,Serbia,transparent
+41.77.188.131:80,http,Guinea,elite
+35.185.196.38:3128,https,United States,anonymous
+4.144.136.15:80,https,Singapore,anonymous
+23.254.231.55:80,http,United States,elite
+190.103.177.131:80,http,Argentina,anonymous
+192.111.139.163:19404,socks4,Canada,anonymous
+67.241.211.61:8080,https,United States,elite
+157.230.33.25:8000,https,Singapore,anonymous
+199.58.185.9:4145,socks4,United States,anonymous
+188.166.56.246:80,http,Netherlands,elite
+47.56.110.204:8989,http,Hong Kong,anonymous
+3.0.209.250:3128,socks4,Singapore,anonymous
+192.111.139.162:4145,socks4,Canada,anonymous
+51.210.216.54:80,http,France,elite
