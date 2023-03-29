@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
-192.111.137.35:4145,socks4,Canada,anonymous
-192.111.138.29:4145,socks4,Canada,anonymous
+192.111.139.163:19404,socks4,Canada,anonymous
