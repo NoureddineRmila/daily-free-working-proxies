@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-101.255.167.142:3125,http,Indonesia,transparent
+117.102.114.2:7890,socks4,Indonesia,anonymous
