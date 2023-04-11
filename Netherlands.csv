@@ -1,3 +1,5 @@
 ip:port,protocol,country,anonymity
 37.97.201.252:80,http,Netherlands,elite
-212.118.43.143:80,http,Netherlands,anonymous
+13.81.217.201:80,http,Netherlands,elite
+51.145.176.250:8080,https,Netherlands,anonymous
+188.166.56.246:80,http,Netherlands,elite
