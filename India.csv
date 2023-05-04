@@ -1,5 +1,5 @@
 ip:port,protocol,country,anonymity
-20.193.135.50:80,http,India,elite
-13.201.104.59:80,socks4,India,anonymous
-20.219.118.36:80,http,India,elite
 172.232.111.247:80,http,India,elite
+20.193.135.50:80,http,India,elite
+20.219.118.36:80,http,India,elite
+172.232.97.182:80,http,India,elite
