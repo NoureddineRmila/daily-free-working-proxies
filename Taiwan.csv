@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 34.81.72.31:80,http,Taiwan,elite
+122.146.95.183:4145,socks4,Taiwan,anonymous
