@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
-139.99.244.154:80,http,Australia,elite
-203.57.51.53:80,http,Australia,elite
+203.96.177.211:15901,socks4,Australia,anonymous
