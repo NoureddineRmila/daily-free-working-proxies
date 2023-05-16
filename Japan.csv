@@ -1,0 +1,5 @@
+ip:port,protocol,country,anonymity
+20.78.102.191:80,http,Japan,elite
+153.139.233.218:8080,https,Japan,elite
+63.250.52.10:1080,socks4,Japan,anonymous
+160.16.65.167:80,http,Japan,anonymous
