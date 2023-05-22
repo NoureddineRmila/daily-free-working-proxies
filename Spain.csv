@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 195.114.209.50:80,http,Spain,elite
+195.235.124.143:80,http,Spain,anonymous
