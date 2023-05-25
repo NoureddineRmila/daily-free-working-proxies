@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
-94.131.107.45:1080,socks4,Netherlands,anonymous
+37.97.201.252:80,http,Netherlands,elite
+160.153.254.240:40393,socks4,Netherlands,anonymous
