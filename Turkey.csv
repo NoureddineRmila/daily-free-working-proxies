@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
+185.165.46.208:3128,https,Turkey,elite
 104.247.167.175:21091,socks4,Turkey,anonymous
