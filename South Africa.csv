@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 102.130.125.86:80,http,South Africa,elite
+102.132.56.56:8080,http,South Africa,transparent
