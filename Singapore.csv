@@ -1,2 +1,4 @@
 ip:port,protocol,country,anonymity
+8.219.97.248:80,https,Singapore,anonymous
 152.69.211.64:9090,http,Singapore,anonymous
+148.72.209.174:45648,socks4,Singapore,anonymous
