@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 103.227.252.71:3128,http,Indonesia,transparent
+103.123.25.65:80,http,Indonesia,elite

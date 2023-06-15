@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
-188.166.17.18:8881,http,Netherlands,anonymous
-51.145.176.250:8080,https,Netherlands,anonymous
+212.118.43.143:80,http,Netherlands,anonymous
