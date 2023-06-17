@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
-189.240.60.163:9090,https,Mexico,anonymous
-189.240.60.166:9090,http,Mexico,elite
+189.240.60.171:9090,https,Mexico,elite
