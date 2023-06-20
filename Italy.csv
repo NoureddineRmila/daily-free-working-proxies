@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-34.154.161.152:80,https,Italy,anonymous
+79.7.101.98:5678,socks4,Italy,anonymous
