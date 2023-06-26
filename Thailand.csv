@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-203.150.113.196:8080,http,Thailand,transparent
+110.78.141.151:4145,socks4,Thailand,anonymous
