@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
-200.174.198.95:8888,http,Brazil,anonymous
+200.19.177.120:80,http,Brazil,elite
+177.136.124.46:56113,socks4,Brazil,anonymous
