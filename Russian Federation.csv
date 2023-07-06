@@ -1,3 +1,4 @@
 ip:port,protocol,country,anonymity
+81.177.160.200:80,http,Russian Federation,elite
 51.250.13.88:80,http,Russian Federation,elite
 188.235.0.207:8181,http,Russian Federation,anonymous
