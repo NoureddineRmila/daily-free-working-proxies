@@ -1,4 +1,2 @@
 ip:port,protocol,country,anonymity
 89.36.114.38:80,http,United Kingdom,anonymous
-178.62.14.68:5050,http,United Kingdom,transparent
-51.75.206.209:80,http,United Kingdom,elite

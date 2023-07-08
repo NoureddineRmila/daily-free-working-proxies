@@ -1,66 +1,65 @@
 ip:port,protocol,country,anonymity
+103.127.1.130:80,http,Bangladesh,anonymous
 116.203.28.43:80,http,Germany,anonymous
-188.166.17.18:8881,http,Netherlands,anonymous
 128.140.26.12:80,http,Germany,anonymous
 35.230.115.171:8080,http,United States,anonymous
+81.177.160.200:80,http,Russian Federation,elite
 38.47.189.73:80,http,Malaysia,anonymous
-154.208.10.126:80,http,United States,anonymous
 162.223.94.166:80,http,United States,anonymous
-93.171.220.229:8888,http,Turkmenistan,anonymous
-51.145.176.250:8080,https,Netherlands,anonymous
-202.131.65.110:80,http,Hong Kong,anonymous
-4.144.136.15:80,https,Singapore,anonymous
-47.56.110.204:8989,http,Hong Kong,anonymous
-47.74.152.29:8888,http,Singapore,anonymous
-41.89.16.6:80,http,Kenya,elite
-35.185.196.38:3128,https,United States,anonymous
-123.30.154.171:7777,http,Vietnam,anonymous
+159.65.77.168:8585,http,United States,anonymous
 162.223.94.164:80,http,United States,anonymous
-98.170.57.249:4145,socks4,United States,anonymous
-98.162.25.16:4145,socks4,United States,anonymous
-184.178.172.13:15311,socks4,United States,anonymous
-72.210.208.101:4145,socks4,United States,anonymous
-212.118.43.143:80,http,Netherlands,anonymous
-199.102.104.70:4145,socks4,United States,anonymous
-37.156.28.43:3128,https,Iran,elite
-67.241.211.61:8080,https,United States,elite
-41.77.188.131:80,http,Guinea,elite
-213.16.81.182:35559,socks4,Hungary,anonymous
-114.129.2.82:8081,http,Japan,elite
-51.15.242.202:8888,http,France,anonymous
-103.152.112.145:80,http,United States,anonymous
-39.109.113.97:3128,http,Hong Kong,anonymous
-199.102.105.242:4145,socks4,United States,anonymous
-153.139.233.218:8080,http,Japan,elite
-162.19.7.59:13580,socks4,France,anonymous
-67.201.59.70:4145,socks4,United States,anonymous
-192.111.137.35:4145,socks4,Canada,anonymous
-195.235.124.143:80,http,Spain,anonymous
-216.137.184.253:80,http,United States,elite
-104.200.152.30:4145,socks4,United States,anonymous
-192.111.137.37:18762,socks4,Canada,anonymous
-51.250.13.88:80,http,Russian Federation,elite
-78.28.152.111:80,http,Bosnia and Herzegovina,elite
-41.111.198.108:80,http,Algeria,anonymous
-137.184.100.135:80,http,United States,elite
-188.235.0.207:8181,http,Russian Federation,anonymous
-89.36.114.38:80,http,United Kingdom,anonymous
-80.13.43.193:80,http,France,anonymous
-190.110.226.162:80,http,Paraguay,elite
-37.97.201.252:80,http,Netherlands,elite
-172.232.111.247:80,http,India,elite
-197.243.20.178:80,http,Rwanda,elite
-146.190.177.143:80,http,Germany,elite
-198.8.94.170:4145,socks4,Canada,anonymous
-178.62.14.68:5050,http,United Kingdom,transparent
-34.23.45.223:80,http,United States,elite
-91.200.115.49:1080,socks4,Ukraine,anonymous
-51.75.206.209:80,http,United Kingdom,elite
-103.174.102.127:80,http,India,elite
-41.74.91.244:80,http,Ghana,elite
-23.254.231.55:80,http,United States,elite
+93.171.220.229:8888,http,Turkmenistan,anonymous
+202.131.65.110:80,http,Hong Kong,anonymous
+198.168.189.54:80,http,Canada,anonymous
+35.185.196.38:3128,https,United States,anonymous
+47.56.110.204:8989,http,Hong Kong,anonymous
+41.89.16.6:80,http,Kenya,elite
+123.30.154.171:7777,http,Vietnam,anonymous
+35.207.123.94:80,http,Germany,elite
 197.243.20.186:80,http,Rwanda,elite
+41.77.188.131:80,http,Guinea,elite
+172.232.111.247:80,http,India,elite
+51.250.13.88:80,http,Russian Federation,elite
+3.19.97.90:80,http,United States,elite
+216.137.184.253:80,http,United States,elite
+173.255.119.18:80,http,United States,elite
+162.19.7.59:13580,socks4,France,anonymous
+199.102.105.242:4145,socks4,United States,anonymous
+67.201.59.70:4145,socks4,United States,anonymous
 20.163.133.5:80,http,United States,elite
-162.223.91.11:80,http,United States,anonymous
+78.28.152.113:80,http,Bosnia and Herzegovina,elite
+192.111.137.37:18762,socks4,Canada,anonymous
+188.235.0.207:8181,http,Russian Federation,anonymous
+195.235.124.143:80,http,Spain,anonymous
+89.36.114.38:80,http,United Kingdom,anonymous
+13.81.217.201:80,http,Netherlands,elite
+192.111.137.35:4145,socks4,Canada,anonymous
+146.255.101.20:80,http,Spain,elite
+80.13.43.193:80,http,France,anonymous
+104.200.152.30:4145,socks4,United States,anonymous
+190.110.226.162:80,http,Paraguay,elite
+198.49.68.80:80,http,United States,elite
+3.128.32.232:80,http,United States,elite
+4.144.136.15:80,https,Singapore,anonymous
+141.147.9.254:80,http,Germany,anonymous
+199.102.104.70:4145,socks4,United States,anonymous
+198.8.94.170:4145,socks4,Canada,anonymous
+189.240.60.163:9090,https,Mexico,anonymous
+31.220.78.244:80,http,Germany,elite
+41.173.24.38:80,http,Mauritius,elite
+34.23.45.223:80,http,United States,elite
+41.111.198.108:80,http,Algeria,anonymous
+197.243.20.178:80,http,Rwanda,elite
+189.240.60.171:9090,https,Mexico,anonymous
+190.5.77.211:80,http,Honduras,elite
+83.118.30.224:8081,http,Thailand,transparent
+73.210.245.19:80,http,United States,elite
+20.78.102.191:80,http,Japan,elite
+212.118.43.143:80,http,Netherlands,anonymous
+143.110.232.177:80,http,United States,elite
+41.74.91.244:80,http,Ghana,elite
+172.173.132.85:80,http,United States,elite
+103.87.169.148:32650,http,India,transparent
+20.219.118.36:80,http,India,elite
+138.197.148.215:80,http,Canada,elite
 200.174.198.95:8888,http,Brazil,anonymous
-158.160.141.139:1080,socks4,Russian Federation,anonymous
