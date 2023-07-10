@@ -1,3 +1,3 @@
 ip:port,protocol,country,anonymity
-162.19.7.59:13580,socks4,France,anonymous
+51.15.242.202:8888,http,France,anonymous
 51.75.122.80:80,http,France,elite
