@@ -1,5 +1,5 @@
 ip:port,protocol,country,anonymity
 212.118.43.143:80,http,Netherlands,anonymous
-5.10.249.159:1080,socks4,Netherlands,anonymous
-37.97.201.252:80,http,Netherlands,elite
 51.145.176.250:8080,http,Netherlands,anonymous
+37.97.201.252:80,http,Netherlands,elite
+188.166.56.246:80,http,Netherlands,elite
