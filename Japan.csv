@@ -1,3 +1,5 @@
 ip:port,protocol,country,anonymity
+20.78.102.191:80,http,Japan,elite
 20.27.86.185:80,http,Japan,anonymous
-153.127.194.62:80,http,Japan,elite
+160.16.65.167:80,http,Japan,anonymous
+153.139.233.218:8080,http,Japan,elite
