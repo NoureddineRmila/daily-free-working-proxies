@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-103.132.92.110:1080,socks4,Bangladesh,anonymous
+103.127.1.130:80,http,Bangladesh,anonymous
