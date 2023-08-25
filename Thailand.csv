@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 183.88.46.234:8080,http,Thailand,transparent
+203.154.39.146:80,http,Thailand,elite
