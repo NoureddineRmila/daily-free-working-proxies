@@ -1,3 +1,3 @@
 ip:port,protocol,country,anonymity
-198.168.189.54:80,http,Canada,anonymous
 142.44.210.174:80,http,Canada,elite
+198.168.189.54:80,http,Canada,anonymous
