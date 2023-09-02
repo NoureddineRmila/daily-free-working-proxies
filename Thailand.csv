@@ -1,4 +1,4 @@
 ip:port,protocol,country,anonymity
 183.88.46.234:8080,http,Thailand,transparent
 203.154.39.146:80,http,Thailand,elite
-119.59.112.142:50174,socks4,Thailand,anonymous
+103.233.193.33:6467,socks4,Thailand,anonymous
