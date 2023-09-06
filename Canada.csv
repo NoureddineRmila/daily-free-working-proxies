@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
 192.111.129.145:16894,socks4,Canada,anonymous
-138.197.148.215:80,http,Canada,elite
