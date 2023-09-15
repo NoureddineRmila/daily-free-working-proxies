@@ -1,5 +1,6 @@
 ip:port,protocol,country,anonymity
+188.166.17.18:8881,http,Netherlands,anonymous
+191.101.80.162:80,http,Germany,anonymous
 116.203.28.43:80,http,Germany,anonymous
-128.140.26.12:80,http,Germany,anonymous
 188.137.118.112:80,http,Poland,anonymous
-147.182.180.242:80,http,United States,elite
+128.140.26.12:80,http,Germany,anonymous
