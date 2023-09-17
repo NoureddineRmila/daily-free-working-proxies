@@ -1,7 +1,8 @@
 ip:port,protocol,country,anonymity
 116.203.28.43:80,http,Germany,anonymous
-188.166.17.18:8881,http,Netherlands,anonymous
-128.140.26.12:80,http,Germany,anonymous
-188.137.118.112:80,http,Poland,anonymous
 46.47.197.210:3128,http,Russian Federation,elite
-191.101.80.162:80,http,Germany,anonymous
+103.127.1.130:80,http,Bangladesh,anonymous
+162.223.94.166:80,http,United States,anonymous
+162.223.94.164:80,http,United States,anonymous
+195.235.124.143:80,http,Spain,anonymous
+51.250.13.88:80,http,Russian Federation,elite
