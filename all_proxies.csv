@@ -1,9 +1,10 @@
 ip:port,protocol,country,anonymity
-191.101.80.162:80,http,Germany,anonymous
-116.203.28.43:80,http,Germany,anonymous
 188.166.17.18:8881,http,Netherlands,anonymous
-46.47.197.210:3128,http,Russian Federation,elite
-128.140.26.12:80,http,Germany,anonymous
-188.137.118.112:80,http,Poland,anonymous
-51.145.176.250:8080,https,Netherlands,anonymous
-162.223.94.166:80,http,United States,anonymous
+116.203.28.43:80,http,Germany,anonymous
+213.19.205.18:54321,socks4,France,anonymous
+165.22.48.201:8888,http,Singapore,transparent
+128.199.251.219:8000,http,Singapore,anonymous
+35.185.196.38:3128,https,United States,anonymous
+195.164.138.34:1080,socks4,Poland,anonymous
+174.64.199.82:4145,socks4,unknown,unknown
+38.47.189.73:80,http,Malaysia,anonymous
