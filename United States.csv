@@ -1,5 +1,4 @@
 ip:port,protocol,country,anonymity
-162.223.94.166:80,http,United States,anonymous
+162.223.94.164:80,http,United States,anonymous
 47.88.3.19:8080,http,United States,anonymous
-67.213.212.58:43474,socks4,United States,anonymous
-162.0.220.219:32898,socks4,United States,anonymous
+162.223.94.166:80,http,United States,anonymous
