@@ -1,24 +1,25 @@
 ip:port,protocol,country,anonymity
-116.203.28.43:80,http,Germany,anonymous
 103.127.1.130:80,http,Bangladesh,anonymous
-128.140.26.12:80,http,Germany,anonymous
-35.207.123.94:80,http,Germany,elite
 46.47.197.210:3128,http,Russian Federation,elite
 188.137.118.112:80,http,Poland,anonymous
-142.44.210.174:80,http,Canada,elite
-103.163.51.254:80,http,Bangladesh,anonymous
-162.223.94.166:80,http,United States,anonymous
-164.90.184.248:80,http,Germany,elite
-38.47.189.73:80,http,Malaysia,anonymous
-78.28.152.113:80,http,Bosnia and Herzegovina,elite
-137.184.100.135:80,http,United States,elite
-165.22.48.201:8888,http,Singapore,transparent
-43.128.107.251:8888,http,Singapore,anonymous
-115.79.27.106:1001,http,Vietnam,elite
-47.56.110.204:8989,http,Hong Kong,anonymous
 217.182.210.152:80,http,France,elite
+191.101.80.162:80,http,Germany,anonymous
+116.203.28.43:80,http,Germany,anonymous
+128.140.26.12:80,http,Germany,anonymous
+142.44.210.174:80,http,Canada,elite
+162.223.94.166:80,http,United States,anonymous
+162.223.94.164:80,http,United States,anonymous
+51.145.176.250:8080,https,Netherlands,anonymous
+159.65.77.168:8585,http,United States,anonymous
+91.199.139.246:1111,socks4,Ukraine,anonymous
+43.128.107.251:8888,http,Singapore,anonymous
+51.15.242.202:8888,http,France,anonymous
+165.22.48.201:8888,http,Singapore,transparent
+38.47.189.73:80,http,Malaysia,anonymous
 198.44.255.3:80,http,Hong Kong,anonymous
+35.207.123.94:80,http,Germany,elite
 47.74.152.29:8888,http,Singapore,anonymous
-103.152.112.145:80,http,United States,anonymous
-67.241.211.61:8080,https,United States,elite
-174.64.199.82:4145,socks4,unknown,unknown
+123.30.154.171:7777,http,Vietnam,anonymous
+43.156.0.125:8888,http,Singapore,anonymous
+35.185.196.38:3128,https,United States,anonymous
+47.56.110.204:8989,http,Hong Kong,anonymous
