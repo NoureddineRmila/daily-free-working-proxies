@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-195.113.113.152:80,http,Czech Republic,elite
+185.82.238.203:5678,socks4,Czech Republic,anonymous

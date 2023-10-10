@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-40.127.8.243:80,https,South Africa,elite
+41.162.162.140:4153,socks4,South Africa,anonymous
