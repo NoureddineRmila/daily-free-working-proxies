@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 41.89.16.6:80,http,Kenya,elite
+154.79.242.178:10801,socks4,Kenya,anonymous
