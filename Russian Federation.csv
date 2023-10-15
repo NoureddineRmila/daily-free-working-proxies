@@ -1,2 +1,4 @@
 ip:port,protocol,country,anonymity
+45.144.30.254:443,socks4,Russian Federation,anonymous
+95.80.89.90:1080,socks4,Russian Federation,anonymous
 51.250.13.88:80,http,Russian Federation,elite
