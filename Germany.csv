@@ -1,5 +1,6 @@
 ip:port,protocol,country,anonymity
 116.203.28.43:80,http,Germany,anonymous
-128.140.26.12:80,http,Germany,anonymous
 213.202.230.241:80,https,Germany,anonymous
-35.207.123.94:80,http,Germany,elite
+128.140.26.12:80,http,Germany,anonymous
+109.235.60.49:54152,socks4,Germany,anonymous
+173.212.209.216:13770,socks4,Germany,anonymous
