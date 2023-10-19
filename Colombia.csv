@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-131.196.212.172:80,http,Colombia,elite
+190.14.224.244:3629,socks4,Colombia,anonymous
