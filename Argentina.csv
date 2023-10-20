@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-190.103.177.131:80,http,Argentina,anonymous
+190.14.32.209:5678,socks4,Argentina,anonymous
