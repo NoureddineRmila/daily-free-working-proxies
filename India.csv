@@ -1,3 +1,5 @@
 ip:port,protocol,country,anonymity
-49.249.155.3:80,http,India,anonymous
 14.97.48.44:80,http,India,anonymous
+45.124.184.13:80,http,India,elite
+14.97.48.40:80,http,India,anonymous
+140.238.245.116:8100,https,India,anonymous
