@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
 146.255.101.20:80,http,Spain,elite
-185.45.73.227:31428,socks4,Spain,anonymous
