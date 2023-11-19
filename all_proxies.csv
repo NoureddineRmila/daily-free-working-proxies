@@ -1,60 +1,57 @@
 ip:port,protocol,country,anonymity
-188.166.17.18:8881,http,Netherlands,anonymous
 149.202.91.219:80,http,France,elite
+188.166.17.18:8881,http,Netherlands,anonymous
+45.92.108.112:80,http,Switzerland,elite
 116.203.28.43:80,http,Germany,anonymous
 128.140.26.12:80,http,Germany,anonymous
-95.164.89.123:8888,http,Germany,anonymous
 188.137.118.112:80,http,Poland,anonymous
-45.92.108.112:80,http,Switzerland,elite
 78.28.152.111:80,http,Bosnia and Herzegovina,elite
-172.245.159.177:80,http,United States,anonymous
-162.223.94.166:80,http,United States,anonymous
-162.223.94.164:80,http,United States,anonymous
+172.245.110.29:9080,http,United States,anonymous
+65.49.38.202:3128,http,United States,transparent
 35.230.115.171:8080,http,United States,anonymous
+47.88.3.19:8080,http,United States,anonymous
 103.152.112.145:80,http,United States,anonymous
-149.62.244.27:4153,socks4,Bulgaria,anonymous
-142.44.210.174:80,http,Canada,elite
+143.198.226.25:80,http,United States,elite
 103.163.51.254:80,http,Bangladesh,anonymous
 43.128.107.251:8888,http,Singapore,anonymous
-143.198.226.25:80,http,United States,elite
-38.47.189.73:80,http,Malaysia,anonymous
 190.103.177.131:80,http,Argentina,anonymous
 202.131.65.110:80,http,Hong Kong,anonymous
-65.49.38.202:3128,http,United States,transparent
-47.56.110.204:8989,http,Hong Kong,anonymous
+162.223.94.166:80,http,United States,anonymous
 43.156.0.125:8888,http,Singapore,anonymous
-191.101.80.162:80,http,Germany,anonymous
-198.44.255.3:80,http,Hong Kong,anonymous
-47.88.3.19:8080,http,United States,anonymous
+47.74.152.29:8888,http,Singapore,anonymous
+47.56.110.204:8989,http,Hong Kong,anonymous
 123.30.154.171:7777,http,Vietnam,anonymous
+198.44.255.3:80,http,Hong Kong,anonymous
+111.88.240.201:1080,socks4,Pakistan,anonymous
+8.222.239.209:80,http,Singapore,anonymous
 41.74.91.244:80,http,Ghana,elite
-37.156.28.43:3128,https,Iran,elite
 184.178.172.3:4145,socks4,United States,anonymous
 184.178.172.18:15280,socks4,United States,anonymous
-8.222.239.209:80,http,Singapore,anonymous
-13.81.217.201:80,http,Netherlands,elite
-47.74.152.29:8888,http,Singapore,anonymous
-188.166.233.248:8000,https,Singapore,anonymous
+38.47.189.73:80,http,Malaysia,anonymous
+128.199.187.208:8000,https,Singapore,anonymous
+142.44.210.174:80,http,Canada,elite
 138.68.225.200:80,http,United States,elite
+36.92.193.189:80,http,Indonesia,elite
+192.111.135.18:18301,socks4,United States,anonymous
+146.255.101.20:80,http,Spain,elite
+171.248.213.128:1080,socks4,Vietnam,anonymous
+51.15.242.202:8888,http,France,anonymous
+66.23.233.210:37700,socks4,United States,anonymous
 82.64.77.30:80,http,France,elite
 51.210.216.54:80,http,France,elite
-192.111.135.18:18301,socks4,United States,anonymous
-66.23.233.210:37700,socks4,United States,anonymous
-138.91.159.185:80,http,United States,elite
-171.247.98.90:1080,socks4,Vietnam,anonymous
-36.92.193.189:80,http,Indonesia,elite
-146.255.101.20:80,http,Spain,elite
-31.220.78.244:80,http,Germany,elite
 209.13.186.20:80,http,Argentina,elite
-185.165.46.208:3128,https,Turkey,elite
-51.145.176.250:8080,http,Netherlands,anonymous
-107.172.141.198:51094,socks4,United States,anonymous
-162.240.22.169:50917,socks4,United States,anonymous
-172.245.110.29:9080,http,United States,anonymous
+167.172.96.213:80,http,Germany,elite
+37.156.28.43:3128,https,Iran,elite
+162.223.94.164:80,http,United States,anonymous
+170.64.222.88:8000,https,Australia,anonymous
 153.139.233.218:8080,https,Japan,anonymous
-51.15.242.202:8888,http,France,anonymous
-34.81.72.31:80,http,Taiwan,elite
-200.174.198.95:8888,https,Brazil,anonymous
 12.186.205.122:80,http,United States,anonymous
-189.240.60.166:9090,http,Mexico,elite
-181.209.103.98:5678,socks4,Argentina,anonymous
+200.174.198.95:8888,https,Brazil,anonymous
+51.15.133.214:16379,socks4,France,anonymous
+219.93.101.60:80,http,Malaysia,anonymous
+34.81.72.31:80,http,Taiwan,elite
+45.226.83.146:4153,socks4,Brazil,anonymous
+178.128.207.96:18877,socks4,Germany,anonymous
+138.91.159.185:80,http,United States,elite
+107.172.141.198:51094,socks4,United States,anonymous
+41.111.187.214:80,https,Algeria,anonymous
