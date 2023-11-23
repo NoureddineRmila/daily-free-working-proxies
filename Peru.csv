@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-181.65.200.53:80,http,Peru,elite
+190.232.89.125:5678,socks4,Peru,anonymous
