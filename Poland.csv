@@ -1,4 +1,2 @@
 ip:port,protocol,country,anonymity
 188.137.118.112:80,http,Poland,anonymous
-185.95.199.103:1099,socks4,Poland,anonymous
-95.51.18.49:443,https,Poland,anonymous
