@@ -1,10 +1,7 @@
 ip:port,protocol,country,anonymity
 174.64.199.82:4145,socks4,unknown,unknown
-174.77.111.197:4145,socks4,unknown,unknown
-185.139.56.133:4145,socks4,unknown,unknown
-192.252.209.155:14455,socks4,unknown,unknown
+192.111.139.165:4145,socks4,unknown,unknown
 184.178.172.18:15280,socks4,unknown,unknown
-192.111.129.145:16894,socks4,unknown,unknown
-192.111.137.35:4145,socks4,unknown,unknown
-198.8.94.170:4145,socks4,unknown,unknown
 103.221.254.102:54409,socks4,unknown,unknown
+192.252.209.155:14455,socks4,unknown,unknown
+103.44.14.129:4145,socks4,unknown,unknown

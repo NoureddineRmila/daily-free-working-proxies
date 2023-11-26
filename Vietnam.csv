@@ -1,2 +1,4 @@
 ip:port,protocol,country,anonymity
 123.30.154.171:7777,http,Vietnam,anonymous
+116.107.182.41:1080,socks4,Vietnam,anonymous
+27.65.242.178:1080,socks4,Vietnam,anonymous
