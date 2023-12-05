@@ -1,3 +1,4 @@
 ip:port,protocol,country,anonymity
-149.102.130.120:80,http,United Kingdom,elite
 18.134.3.56:3128,socks4,United Kingdom,anonymous
+149.102.130.120:80,http,United Kingdom,elite
+86.8.163.88:9150,socks4,United Kingdom,anonymous
