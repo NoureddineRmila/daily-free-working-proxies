@@ -1,5 +1,4 @@
 ip:port,protocol,country,anonymity
-103.123.25.65:80,http,Indonesia,elite
-103.113.170.230:3128,https,Indonesia,elite
 36.92.193.189:80,http,Indonesia,elite
-182.253.140.250:5678,socks4,Indonesia,anonymous
+182.253.152.59:4145,socks4,Indonesia,anonymous
+36.92.166.196:1080,socks4,Indonesia,anonymous
