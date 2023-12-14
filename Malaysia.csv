@@ -1,2 +1,4 @@
 ip:port,protocol,country,anonymity
 38.47.189.73:80,http,Malaysia,anonymous
+219.93.101.60:80,http,Malaysia,anonymous
+1.32.59.217:31981,socks4,Malaysia,anonymous
