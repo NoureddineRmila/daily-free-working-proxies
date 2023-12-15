@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 188.166.17.18:8881,http,Netherlands,anonymous
+160.153.245.187:31745,socks4,Netherlands,anonymous
