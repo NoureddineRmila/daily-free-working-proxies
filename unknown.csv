@@ -1,2 +1,3 @@
 ip:port,protocol,country,anonymity
 174.64.199.82:4145,socks4,unknown,unknown
+192.252.209.155:14455,socks4,unknown,unknown
