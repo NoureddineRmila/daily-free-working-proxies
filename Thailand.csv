@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
 49.228.131.169:5000,http,Thailand,anonymous
-116.58.232.12:8080,http,Thailand,transparent
