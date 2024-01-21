@@ -1,42 +1,43 @@
 ip:port,protocol,country,anonymity
 89.36.114.38:80,http,United Kingdom,anonymous
-188.166.17.18:8881,http,Netherlands,anonymous
+13.81.217.201:80,http,Netherlands,elite
 116.203.28.43:80,http,Germany,anonymous
 103.127.1.130:80,http,Bangladesh,anonymous
-13.81.217.201:80,http,Netherlands,elite
-8.34.208.46:80,http,Belgium,elite
-46.47.197.210:3128,http,Russian Federation,elite
-172.245.110.29:9080,http,United States,anonymous
+188.137.118.112:80,http,Poland,anonymous
 162.223.94.164:80,http,United States,anonymous
 162.223.94.166:80,http,United States,anonymous
-185.217.136.67:1337,https,"Virgin Islands, British",anonymous
-2.57.131.19:4145,socks4,Spain,anonymous
-93.171.220.229:8888,http,Turkmenistan,anonymous
-38.47.189.73:80,http,Malaysia,anonymous
-190.103.177.131:80,http,Argentina,anonymous
-41.77.188.131:80,http,Guinea,elite
+213.202.230.241:80,https,Germany,anonymous
+46.47.197.210:3128,http,Russian Federation,elite
 103.163.51.254:80,http,Bangladesh,anonymous
+8.34.208.46:80,http,Belgium,elite
+38.140.163.42:80,http,United States,elite
+93.171.220.229:8888,http,Turkmenistan,anonymous
+51.15.242.202:8888,http,France,anonymous
+188.166.17.18:8881,http,Netherlands,anonymous
 202.131.65.110:80,http,Hong Kong,anonymous
-218.255.187.60:80,http,Hong Kong,elite
+38.47.189.73:80,http,Malaysia,anonymous
 49.228.131.169:5000,http,Thailand,anonymous
+43.128.107.251:8888,http,Singapore,anonymous
+190.103.177.131:80,http,Argentina,anonymous
+218.255.187.60:80,http,Hong Kong,elite
+41.77.188.131:80,http,Guinea,elite
 143.198.226.25:80,http,United States,elite
-47.74.152.29:8888,http,Singapore,anonymous
 198.44.255.3:80,http,Hong Kong,anonymous
-146.190.35.63:8000,https,United States,anonymous
 219.93.101.60:80,http,Malaysia,anonymous
-116.58.232.12:8080,http,Thailand,transparent
-58.234.116.197:80,http,South Korea,anonymous
 183.100.14.134:8000,http,South Korea,elite
-103.118.44.158:8080,http,Cambodia,transparent
-150.107.136.110:8082,http,Indonesia,anonymous
+116.58.232.12:8080,http,Thailand,transparent
+47.74.152.29:8888,http,Singapore,anonymous
+191.101.80.162:80,http,Germany,anonymous
 211.222.252.187:8193,http,South Korea,anonymous
+103.118.44.158:8080,http,Cambodia,transparent
+58.234.116.197:80,http,South Korea,anonymous
 37.156.28.43:3128,https,Iran,elite
-188.137.118.112:80,http,Poland,anonymous
-45.144.30.199:443,socks4,Russian Federation,anonymous
-154.65.39.7:80,http,Senegal,anonymous
-128.199.104.93:8000,https,Singapore,anonymous
+150.107.136.110:8082,http,Indonesia,anonymous
+51.145.176.250:8080,https,Netherlands,anonymous
+82.223.102.92:9443,http,Spain,elite
 123.30.154.171:7777,http,Vietnam,anonymous
-138.91.159.185:80,http,United States,elite
-154.205.152.96:9080,socks4,Seychelles,anonymous
-35.207.123.94:80,http,Germany,elite
+167.172.91.219:8000,https,Singapore,anonymous
 41.74.91.244:80,http,Ghana,elite
+115.96.208.124:8080,https,India,elite
+140.238.247.9:8100,http,India,anonymous
+34.87.84.105:80,http,Singapore,elite
