@@ -1,5 +1,4 @@
 ip:port,protocol,country,anonymity
-43.128.107.251:8888,http,Singapore,anonymous
 47.74.152.29:8888,http,Singapore,anonymous
-128.199.104.93:8000,https,Singapore,anonymous
-8.222.239.209:80,http,Singapore,anonymous
+128.199.187.210:8000,https,Singapore,anonymous
+167.172.91.219:8000,https,Singapore,anonymous
