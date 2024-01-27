@@ -1,45 +1,39 @@
 ip:port,protocol,country,anonymity
 89.36.114.38:80,http,United Kingdom,anonymous
-188.166.17.18:8881,http,Netherlands,anonymous
-103.127.1.130:80,http,Bangladesh,anonymous
 116.203.28.43:80,http,Germany,anonymous
-68.183.100.186:8000,http,United States,anonymous
+13.81.217.201:80,http,Netherlands,elite
 162.223.94.166:80,http,United States,anonymous
 213.202.230.241:80,https,Germany,anonymous
-172.245.110.29:9080,http,United States,anonymous
 162.223.94.164:80,http,United States,anonymous
-190.103.177.131:80,http,Argentina,anonymous
-38.47.189.73:80,http,Malaysia,anonymous
+103.163.51.254:80,http,Bangladesh,anonymous
 41.77.188.131:80,http,Guinea,elite
-202.131.65.110:80,http,Hong Kong,anonymous
-47.56.110.204:8989,http,Hong Kong,anonymous
-35.185.196.38:3128,https,United States,anonymous
-123.30.154.171:7777,http,Vietnam,anonymous
-198.44.255.3:80,http,Hong Kong,anonymous
-116.58.232.12:8080,http,Thailand,transparent
-47.74.152.29:8888,http,Singapore,anonymous
-103.118.44.158:8080,http,Cambodia,transparent
-128.199.187.208:8000,https,Singapore,anonymous
-38.91.106.214:56057,socks4,United States,anonymous
-37.156.28.43:3128,https,Iran,elite
-154.208.10.126:80,http,United States,anonymous
-165.227.0.192:80,http,United States,elite
-13.81.217.201:80,http,Netherlands,elite
-128.199.104.93:8000,https,Singapore,anonymous
 46.47.197.210:3128,http,Russian Federation,elite
+38.47.189.73:80,http,Malaysia,anonymous
+190.103.177.131:80,http,Argentina,anonymous
+202.131.65.110:80,http,Hong Kong,anonymous
+47.74.152.29:8888,http,Singapore,anonymous
+198.44.255.3:80,http,Hong Kong,anonymous
+123.30.154.171:7777,http,Vietnam,anonymous
+116.58.232.12:8080,http,Thailand,transparent
 218.255.187.60:80,http,Hong Kong,elite
-154.118.228.212:80,http,Tanzania,anonymous
-183.100.14.134:8000,http,South Korea,elite
-38.140.163.42:80,http,United States,elite
-51.75.206.209:80,http,United Kingdom,elite
-82.64.77.30:80,http,France,elite
-153.139.233.218:8080,https,Japan,anonymous
-150.107.136.110:8082,http,Indonesia,anonymous
-219.93.101.60:80,http,Malaysia,anonymous
-138.68.225.200:80,http,United States,elite
-209.142.64.219:39789,socks4,United States,anonymous
+103.118.44.158:8080,http,Cambodia,transparent
+38.91.106.214:56057,socks4,United States,anonymous
 41.74.91.244:80,http,Ghana,elite
+45.124.184.13:80,https,India,elite
+38.140.163.42:80,http,United States,elite
+172.245.110.29:9080,http,United States,anonymous
+154.118.228.212:80,http,Tanzania,anonymous
+217.182.210.152:80,http,France,elite
+183.100.14.134:8000,http,South Korea,elite
+82.64.77.30:80,http,France,elite
+140.238.247.9:8100,http,India,anonymous
 73.210.245.19:80,http,United States,elite
-193.136.97.17:80,http,Portugal,anonymous
+153.139.233.218:8080,https,Japan,anonymous
+51.75.74.18:80,http,Germany,elite
+34.87.84.105:80,http,Singapore,elite
+142.44.210.174:80,http,Canada,elite
+41.173.24.38:80,http,Mauritius,elite
+153.19.91.77:80,http,Poland,anonymous
 158.160.141.139:1080,socks4,Russian Federation,anonymous
-42.61.48.219:8000,https,Singapore,elite
+8.34.208.46:80,http,Belgium,elite
+36.89.56.127:5678,socks4,Indonesia,anonymous
