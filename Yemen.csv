@@ -1,2 +1,2 @@
 ip:port,protocol,country,anonymity
-178.130.116.131:8080,http,Yemen,transparent
+134.35.183.97:1080,socks4,Yemen,anonymous
