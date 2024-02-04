@@ -1,5 +1,4 @@
 ip:port,protocol,country,anonymity
-202.131.65.110:80,http,Hong Kong,anonymous
 218.255.187.60:80,http,Hong Kong,elite
+202.131.65.110:80,http,Hong Kong,anonymous
 198.44.255.3:80,http,Hong Kong,anonymous
-47.243.177.210:8088,http,Hong Kong,anonymous
