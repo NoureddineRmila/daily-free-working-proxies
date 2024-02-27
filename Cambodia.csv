@@ -1,3 +1,2 @@
 ip:port,protocol,country,anonymity
 103.118.44.158:8080,http,Cambodia,transparent
-110.74.195.152:1080,socks4,Cambodia,anonymous
